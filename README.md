@@ -3,6 +3,10 @@
 ## Introduction
 SYMPHONY (SYstematic Multi-Product Hydrogen Optimization Network Yondervision) is a global 0.25-degree grid-level optimization model aimed at optimizing the integrated production of hydrogen, ammonia, methanol, and other products synthesized using CO2 hydrogenation. This model comprehensively integrates various components including electricity generation (wind power, photovoltaics (PV)), energy storage, hydrogen production, heat management, Direct Air Capture - DAC, as well as the production and storage of terminal products such as hydrogen, ammonia, and methanol.
 
+## System scope
+![image](https://github.com/user-attachments/assets/f450978b-12ee-417b-b57e-932f7e30dbe3)
+
+
 ## Features
 - Multi-product synthesis optimization (Hydrogen, Ammonia, Methanol, and potentially other CO2-derived products).
 - Integration of renewable energy sources: Wind power, PV, energy storage systems.
